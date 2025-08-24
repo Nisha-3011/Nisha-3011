@@ -19,8 +19,8 @@
 ![Nisha-3011](https://github.com/Nisha-3011/Nisha.git)
 
 ## 🔗 Connect with Me
-![My LinkedIn](https://www.linkedin.com/in/NILOFARNISHAMohamedRaffiyukthin/)
-![My Instagram](https://www.instagram.com/_x.nixha.x_/)
+![LinkedIn](https://www.linkedin.com/in/NILOFARNISHAMohamedRaffiyukthin/)
+![Instagram](https://www.instagram.com/_x.nixha.x_/)
 
 ## 🏸My hobbies
 - Carrom🥇
