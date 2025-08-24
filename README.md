@@ -1,13 +1,14 @@
-# 👋 Hi, I'm Nilofar Nisha!
+# 👋 Hello, I'm Nilofar Nisha!
 
 ##  👤About Me
 -  💻 A passionate web developer
-- 🔭 Currently pursuing B.Tech IT 2nd year
+-  🔭 Currently pursuing B.Tech IT 2nd year
 -  🎓 Learning FSD and MERN stack
 -  🥇 A carrom player
+-  📍 From Madurai, Tamilnadu
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools⚙️
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -15,7 +16,7 @@
 
 
 ## 📈 GitHub Stats
-![Nisha-3011](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nisha-3011](https://github.com/Nisha-3011/Nisha.git)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
