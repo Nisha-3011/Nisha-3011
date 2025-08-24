@@ -19,5 +19,14 @@
 ![Nisha-3011](https://github.com/Nisha-3011/Nisha.git)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+![LinkedIn]([My LinkedIn](https://www.linkedin.com/in/NILOFARNISHAMohamedRaffiyukthin/))
+![Instagram]([My Instagram](https://www.instagram.com/_x.nixha.x_/)
+
+## 🏸My hobbies
+- Carrom🥇
+- Badminton🏸
+- Crafts and Arts🎨
+
+
+
 
