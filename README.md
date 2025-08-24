@@ -1,25 +1,22 @@
-#  Hi😊, I'm NILOFAR NISHA
-## ***👤About***
-### 💻 A passionate web developer
-##### 🌎  From Madurai, Tamilnadu
-##### 📍  Currently pursuing B.Tech IT(2nd year)🎓
-##### 📍  Learning **Full stack** and ***MERN stack*** 
-# -----------------------------------------------------------
-## ***⚙️Technologies and Tools 🛠️***
-### ***Python*** 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s)
-### ***HTML*** : Structures web page content (a basic structure) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png)
-### ***CSS***: Styles web pages, controlling layout, colors, and fonts. ![](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png)
-### ***JavaScript***:Interactivity and provides dynamic features to web pages.  ![](https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png)
-#### ***Backend Languages***: Python, Java, Ruby, or Node.js 
-#### ***Databases***:  **SQL** ;storing and retrieving data. 
-#### ***APIs & JSON***: Data exchange between systems
-# -----------------------------------------------------------
-## ***Reach me*** 🫱🏼‍🫲🏻
-##### 📞 **Contact** : +91 8248503272
-#####  [📩 Mail](drnilanila3011@gmail.com)
-##### [🌐 GitHub](https://github.com/Nisha-3011/Nisha.git)
+# 👋 Hi, I'm Nilofar Nisha!
+
+##  👤About Me
+-  💻 A passionate web developer
+- 🔭 Currently pursuing B.Tech IT 2nd year
+-  🎓 Learning FSD and MERN stack
+-  🥇 A carrom player
 
 
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
- 
+
+## 📈 GitHub Stats
+![Nisha-3011](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
