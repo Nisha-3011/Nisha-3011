@@ -20,12 +20,13 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
+![GitHub](https://github.githubassets.com/images/modules/logos-page/GitHub-mark.png)
 
 ## 🏸My hobbies
 - Carrom🥇
 - Badminton🏸
 - Crafts and Arts🎨
-![Demo Animation](https://media.giphy.com/media/your-animation.gif)
+
 
 
 
