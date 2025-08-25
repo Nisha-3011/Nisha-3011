@@ -25,6 +25,7 @@
 - Carrom🥇
 - Badminton🏸
 - Crafts and Arts🎨
+![Demo Animation](https://media.giphy.com/media/your-animation.gif)
 
 
 
